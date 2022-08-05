@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's Up 👋🏾
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="" width="600" />
 </div>  
