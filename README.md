@@ -16,7 +16,7 @@
 - **❓ Ask me about anything related to PERN stack and related technologies**  
   
 
-- **⚡ Fun fact: I'm starting a weekly project challenge**  
+- **⚡ Fun fact: I'm starting a weekly project challenge!**  
   
 
 <br/>  
