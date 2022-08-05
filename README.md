@@ -4,7 +4,7 @@
 </div>  
   
 
-## <div align="center">I'm Jaden, an aspiring full-stack freelance developer 👨‍💻 started coding in 2021 🚀</div>  
+## <div align="center">I'm Jaden, an aspiring full-stack developer 👨‍💻 started coding in 2021 🚀</div>  
   
 
 - **🔭 I’m currently working on [Do-It](https://github.com/JubzCodes/Do-it)**  
