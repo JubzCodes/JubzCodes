@@ -7,7 +7,7 @@
 ## <div align="center">I'm Jaden, an aspiring full-stack developer 👨‍💻 started coding in 2021 🚀</div>  
   
 
-- **🔭 I’m currently working on [Simple-Notes](https://github.com/JubzCodes/simple-notes)**  
+- **🔭 I’m currently working on [Weatherly](https://github.com/JubzCodes/weatherly)**  
   
 
 - **🌱 I’m currently learning Angular and Next JS**  
